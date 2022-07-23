@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-
-**habibullah-sorosh/habibullah-sorosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Here are some ideas to get you started:
+## Welcome to my Github Account
+## My Highlights and Interested:
 
 - 🔭 I’m currently working on HTML and CSS 
 - 🌱 I’m currently learning Bootstrap
